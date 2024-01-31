@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP7363-18D-13
+D LDO Voltage Regulators 1.5A Fast Transient Ultra-LDO Linear Reg
+K
+F https://www.diodes.com/assets/Datasheets/AP7363.pdf
+$ENDCMP
+#
+#End Doc Library
