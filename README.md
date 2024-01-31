@@ -6,7 +6,7 @@ Custom lithium-polymer battery voltage monitor and regulator module (N-FET versi
 
 This custom module is designed as a drop-in for small-scale electronics projects providing 3.3V linear regulated voltage output from a raw lithium polymer cell input. The battery input voltage is monitored by the [MIC2779](https://www.digikey.com/en/products/detail/microchip-technology/MIC2779L-2YM5-TR/1616864) whose output enables or disables the regulated output supply. It is configured with hysteresis to cutoff output when the battery voltage reaches 3.1V and to then hold in reset until the battery voltage exceeds 3.6V.
 
-This is a form-factor-compatible replacement for the battery regulator module design available [here](). This version makes use of an N-FET transistor for switching rather than the built-in enable used in the original design. This version is meant to serve as a alternate to be used on the basis of parts-available.
+This is a form-factor-compatible replacement for the battery regulator module design available [here](https://github.com/johnmgreenwell/battery-reg-module). This version makes use of an N-FET transistor for switching rather than the built-in enable used in the original design. This version is meant to serve as a alternate to be used on the basis of parts-available.
 
 ![Battery Regulator Module 3d Render](images/battery-reg-module-fet-3d-ap7363.png)
 
