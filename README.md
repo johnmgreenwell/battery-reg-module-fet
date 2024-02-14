@@ -14,6 +14,10 @@ The module supports the 1.5A maximum current limitations of the regulator chip [
 
 This module may be combined with a Lipo charger module such as the [TP4056](https://www.best-microcontroller-projects.com/tp4056.html) (along with any in-circuit charging mods as required) for a complete custom battery charging/monitoring/regulation for small-scale electronics projects.
 
+The zipped gerber files provided may be uploaded to a PCB manufacturer for fabrication. Below is the automatic rendering of the uploaded gerbers by [OSHPark](https://oshpark.com/home).
+
+![Battery Regulator Module FET Gerbers Rendered](images/battery-reg-module-fet-gerbers-rendered.png)
+
 ## Schematic
 
 The schematic for the circuit is provided below as designed in Kicad 7.
