@@ -20,7 +20,7 @@ The zipped gerber files provided may be uploaded to a PCB manufacturer for fabri
 
 ## Schematic
 
-The schematic for the circuit is provided below as designed in Kicad 8.
+The schematic for the circuit is provided below as designed in Kicad 9.
 
 ![Battery Regulator Module Schematic](images/battery-reg-module-fet-schematic.png)
 
